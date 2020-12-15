@@ -64,6 +64,7 @@ Collected Works are:-
   * The Self-Seeker
   * The Wood-pile
   * Good Hours
+  
 3. <h4>Mountain Interval(1916)
   * The Road Not Taken
   * Christmas Trees
@@ -95,6 +96,7 @@ Collected Works are:-
   * The Vanishing Red
   * Snow
   * The Sound of Trees
+  
 4. <h4>New Hampshire(1923)
   * Stopping By the Woods on a Snowy Evening
   * Fire and Ice
@@ -121,7 +123,7 @@ Collected Works are:-
   * To Earthward
   * Dust Of Snow
   
-* <h4> MISC
+5. <h4> MISC
   * To E.T.
 
         
